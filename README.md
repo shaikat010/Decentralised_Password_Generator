@@ -1,7 +1,7 @@
 # Decentralised_Password_Generator
 This repository contains code for implementing a decentralized password generation system using socket programming and cryptographic methods
 
-#What is Cryptography?
+# What is Cryptography?
 
 Cryptographic numbers, such as keys and tokens, play a crucial role in modern identity and access management systems. They are used to authenticate users, secure data, and enable secure communication between parties. In traditional systems, these numbers are often generated and managed by a central authority, which can create potential vulnerabilities and points of failure.
 
